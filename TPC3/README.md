@@ -1,2 +1,1 @@
-# PL2025::A96296
- 
+O conversor desenvolvido permite transformar um documento Markdown simples em HTML, cobrindo cabeçalhos, negrito, itálico, links, imagens e listas numeradas. Através de expressões regulares, o script identifica e converte cada elemento, gerando um arquivo HTML pronto para uso.
